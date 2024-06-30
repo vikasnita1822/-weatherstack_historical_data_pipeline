@@ -1,0 +1,9 @@
+{"weatherstack_api_key" : "login_api_token",
+"POSTGRES_HOST": "host",
+"POSTGRES_PORT": "port",
+"POSTGRES_USERNAME": "user_name",
+"POSTGRES_PASSWORD": "password",
+"POSTGRES_DATABASE": "database_name",
+"cities": "['Delhi', 'Mumbai', 'Bangalore', 'Kolkata', 'Chennai', 'Hyderabad', 'Pune']",
+"start_date":"2010-01-01",
+"end_date":"2024-06-30"}
